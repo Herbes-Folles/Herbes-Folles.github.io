@@ -1,8 +1,10 @@
-- title: About
-  url: /about.html
+- title: Programme
+  url: /content/programme.html
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+- title: Informations pratiques
+  url: /content/informations_pratiques.html
 
-- title: Designer
-  url: http://patdryburgh.com
+- title: Charte
+  url: /content/charte.html
+
+- title: Prendre une place
