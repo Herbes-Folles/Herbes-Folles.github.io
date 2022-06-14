@@ -18,7 +18,7 @@ Liste des artistes :
 
 - Brume Dub [Dub] - [Extrait](/assets/music/brume_dub-space_dub.mp3)
 
-- Chleo XII [House-Trance] - 
+- Chleo XII [House-Trance] - [Soundcloud](https://soundcloud.com/cleoxiii)
 
 - Catalyss [Progressive Psytrance]
 
@@ -28,7 +28,7 @@ Liste des artistes :
 
 - JohnFaustus [Gabber Punk] - [Soundcloud](https://soundcloud.com/johnfaustus)
 
-- Frere Tang [Hadre Trance/ Gabber] - 
+- Frere Tang [Hadre Trance/ Gabber] - [Soundcloud](https://soundcloud.com/dr-lobo)
 
 - Neon Vapor [Hi-tech psytrance] - [Soundcloud](https://soundcloud.com/neonvapor)
 
