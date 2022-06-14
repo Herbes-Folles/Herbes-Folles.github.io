@@ -1,5 +1,5 @@
 body {
-  background: $brand-color;
+  background: $color-coquille;
   color: $text-color;
   font-family: $font-family;
   font-size: 1.3125em;
@@ -9,12 +9,14 @@ body {
 h1 {
   font-size: 3em;
   margin: .5em auto;
+  font-weight: bold;
 }
 
 h2 {
   font-size: 2em;
   margin: 1em auto;
   text-align: center;
+  font-weight: 400;
 }
 
 h3 {
