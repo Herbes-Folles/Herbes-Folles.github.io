@@ -14,7 +14,7 @@ Liste des artistes :
 
 - Clément Goutorbe [Funk Afro / Psyché] - [Soundcloud](https://soundcloud.com/funkyeast)
 
-- Winstond Dub Project [Dub] - [Soundcloud](https://soundcloud.com/winstondubproject/sets/terranomads)
+- Winston Dub Project [Dub] - [Soundcloud](https://soundcloud.com/winstondubproject/sets/terranomads)
 
 - Brume Dub [Dub] - [Extrait](/assets/music/brume_dub-space_dub.mp3)
 
@@ -28,7 +28,7 @@ Liste des artistes :
 
 - JohnFaustus [Gabber Punk] - [Soundcloud](https://soundcloud.com/johnfaustus)
 
-- Frere Tang [Hadre Trance/ Gabber] - [Soundcloud](https://soundcloud.com/dr-lobo)
+- Frere Tang [Hard Trance/ Gabber] - [Soundcloud](https://soundcloud.com/dr-lobo)
 
 - Neon Vapor [Hi-tech psytrance] - [Soundcloud](https://soundcloud.com/neonvapor)
 
