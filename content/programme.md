@@ -18,7 +18,7 @@ Liste des artistes :
 
 - Brume Dub [Dub] - [Extrait](/assets/music/brume_dub-space_dub.mp3)
 
-- Chleo XII [House-Trance] - [Soundcloud](https://soundcloud.com/cleoxiii)
+- Cleo XIII [House-Trance] - [Soundcloud](https://soundcloud.com/cleoxiii)
 
 - Catalyss [Progressive Psytrance]
 
