@@ -75,7 +75,7 @@ Nous tiendrons une buvette associative avec de la bière artisanale et locale. L
 
 Nous aurons aussi des softs (ginger beer, thé glacé et limonade) à prix très très doux.
 
-Vous êtes libres de ramener votre consommation personnelle, la buvette permet toutefois de financer une grande partir de l’évènement.
+Vous êtes libres de ramener votre consommation personnelle, la buvette permet toutefois de financer une grande partie de l’évènement.
 
 Enfin, le cash et Lydia seront acceptés au bar.
 
