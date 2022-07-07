@@ -30,7 +30,7 @@ Notre événement se veut inclusif et safe pour toutes les personnes. Cela veut 
 
 Entraîneront systématiquement une réaction de notre part pouvant aller au délà du cadre de l’évènement.
 
-Quelques petits rappels sur le consentement : https://www.youtube.com/watch?v=yj5NcMew6qc
+Quelques petits rappels sur le consentement : [Une vidéo chouette](https://www.youtube.com/watch?v=yj5NcMew6qc)
 
 ## Pour venir
 
