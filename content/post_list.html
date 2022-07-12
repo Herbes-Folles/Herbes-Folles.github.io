@@ -1,0 +1,12 @@
+---
+title: Actualités
+layout: post
+---
+
+    <div class="content">
+      <ul class="post-list">
+        {% for post in site.posts %}        
+          {% include post-list-item.html %}
+        {% endfor %}
+      </ul>
+    </div>

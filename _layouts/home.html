@@ -2,11 +2,6 @@
 layout: default
 ---
 
-{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include menu.html %}
-{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include back-link.html %}
-{% else %}
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
@@ -18,6 +13,11 @@ layout: default
       <h2>
         {{ site.description }}
       </h2>
+      
+<div style="display: block; text-align: center;">
+    <a href="https://www.helloasso.com/associations/herbes-folles/evenements/herbes-folles-2" style="padding: 15px 36px; display: inline-block; font-family: 'Open Sans', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 20px; font-weight: 600; text-align: center; color: #b14a3e; text-decoration: none; background-color: #fff; border: none; -webkit-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);" id="widgetButton_event" target="_blank">Participer</a>
+</div>
+  </header>
       <div class="post h-entry" style="padding-top: 2em;">
         <h2 style="max-width: none;">Mise en bouche...</h2>
         <hr>
@@ -39,20 +39,20 @@ layout: default
       </div>
       <hr>
     </div>
-      <div style="padding-top: 2rem;">
+  <div style="padding-top: 2rem;">
         
-        
 
+  <h2>Actualités</h2>
+    <div class="content">
+      <ul class="post-list">
+        {% for post in site.posts %}        
+          {% include post-list-item.html %}
+        {% endfor %}
+      </ul>
+    </div>
 
-<div style="display: block; text-align: center;">
-    <a href="https://www.helloasso.com/associations/herbes-folles/evenements/herbes-folles-2" style="padding: 15px 36px; display: inline-block; font-family: 'Open Sans', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-size: 20px; font-weight: 600; text-align: center; color: #b14a3e; text-decoration: none; background-color: #fff; border: none; -webkit-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);" id="widgetButton_event" target="_blank">Participer</a>
-</div>
-
-    
-      </div>
+    </div>
     {% endif %}
-  </header>
-{% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
     
