@@ -1,10 +1,10 @@
 ---
-title: "Herbes Folles 2022 : nos finances"
+title: "Combien ça coûte de faire un festival ? Tous les détails sur le budget d'Herbes Folles 2022 !"
 layout: post
 author: "L'équipe organisatrice d'Herbes Folles"
 ---
 
-## Notre démarche
+## Pourquoi publier le détail de nos finances ?
 
 Herbes Folles est un festival à but non lucratif : nos recettes sont re-investies en entièreté pour alimenter le projet associatif.
 
@@ -17,7 +17,7 @@ Cette indépendance financière à aussi un coût pour vous : nous ne recevons p
 
 Parce que nous ne rendons des comptes, qu'à vous les festivaliers, nous avons décidé de publier le détail de notre budget. L'objectif pour nous est double : rester cohérent avec nos valeurs mais aussi vous donner un aperçu de la manière dont est utilisée votre argent.
 
-## Le budget de l'édition 2022
+## Quel est le budget de l'édition 2022 ?
 
 Pour l'édition 2022, notre budget s'élève à 10 941€ ! Pour chaque participant, nous dépensons donc 53,74€ dans l'événement.
 
