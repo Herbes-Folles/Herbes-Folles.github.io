@@ -69,6 +69,8 @@ Si vous avez des allergies alimentaires tenez-nous au courant via le formulaire 
 
 Pour l’instant nous avons prévus les repas du vendredi soir, samedi journée (ptit dej, le midi, et le soir) ainsi que dimanche midi.
 
+**Attention** : apportez votre vaisselle pour manger !
+
 ## Alcool
 
 Nous tiendrons une buvette associative avec de la bière artisanale et locale. La bière sera vendue 4,50€ la pinte et 2,50€ le demi.
@@ -79,11 +81,14 @@ Vous êtes libres de ramener votre consommation personnelle, la buvette permet t
 
 Enfin, le cash et Lydia seront acceptés au bar.
 
+**Attention** : apportez votre ecocups !
+
 ## La canicule
 
 On sera en plein moins d’Août et si on continue sur notre lancée, la sécheresse sera a un stade très avancée. Aussi les ressources en eau seront surement très limités.
 
-Nous installerons une douche pour se laver, mais au vus de la petite installation communale, il va falloir économiser l’eau !
+Nous installerons une douche pour se laver, mais au vus de la petite installation communale, il va falloir économiser l’eau ! 
+**Attention** : prévoyez un savon bio-dégradable car l'eau de la douche servira à arroser les plantes.
 
 Bonus : il y a une rivière à 20 minutes en voiture si vous souhaitez vous rafraîchir.
 
