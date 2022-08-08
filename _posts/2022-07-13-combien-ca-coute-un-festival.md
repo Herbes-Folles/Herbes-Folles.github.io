@@ -8,10 +8,10 @@ author: "L'équipe organisatrice d'Herbes Folles"
 
 Herbes Folles est un festival à but non lucratif : nos recettes sont re-investies en entièreté pour alimenter le projet associatif.
 
-Grâce à notre indépendance financière, nous vous offrons la garantie que nous organisons un événment uniquement guidé par l'interêt de notre public. Cela nous permet de décider en autonomie de toutes les facettes de l'événement et nous permet aussi d'offrir un espace sans publicité.
+Grâce à notre indépendance financière, nous vous offrons la garantie que nous organisons un événement uniquement guidé par l'interêt de notre public. Cela nous permet de décider en autonomie de toutes les facettes de l'événement ainsi que de vous offrir un espace sans publicité.
 
 
-Cette indépendance financière a aussi un coût pour vous : nous ne recevons pas de subventions et nous devons atteindre l'équilibre financier uniquement avec les recettes des places et du bar.
+Cette indépendance financière a aussi un coût pour vous : nous ne recevons pas de subvention et nous devons atteindre l'équilibre financier uniquement avec les recettes des places et du bar.
 
 <br>
 
@@ -21,11 +21,11 @@ Parce que nous ne rendons des comptes qu'à vous, les festivaliers, nous avons d
 
 Pour l'édition 2022, notre budget s'élève à 10 941€ ! Pour chaque participant, nous dépensons donc 53,74€ dans l'événement.
 
-Les places représentent un peu plus de la moitié de nos recettes, et nous comptons sur l'attractivité de notre bar (petit prix et boissons de qualités) pour financer l'autre moitié. Nous avons donc estimé qu'une place à 38,50€ représente un bon rapport entre le risque de ne pas avoir assez de consommation au bar et un tarif acceptable pour notre événement. 
+Les places représentent un peu plus de la moitié de nos recettes, et nous comptons sur l'attractivité de notre bar (petit prix et boissons de qualité) pour financer l'autre moitié. Nous avons donc estimé qu'une place à 38,50€ représente un bon rapport entre le risque de ne pas avoir assez de consommation au bar et un tarif acceptable pour notre événement. 
 
 <br>
 
-Les 15,24€ restant proviennent des recettes du bar. L'achat du pinte à 4,50€ nous rapporte 2,25€, le reste servant à payer le travail de la [brasserie Auros](https://brasserieauros.com/)). Ce qui fait que nous nous attendons à une dépense moyenne de 30,48€ par personne au bar. 
+Les 15,24€ restant proviennent des recettes du bar. L'achat d'une pinte à 4,50€ nous rapporte 2,25€, le reste servant à payer le travail de la [brasserie Auros](https://brasserieauros.com/)). Ce qui fait que nous nous attendons à une dépense moyenne de 30,48€ par personne au bar. 
 
 ## À quoi sers l'argent de ma place ?
 
