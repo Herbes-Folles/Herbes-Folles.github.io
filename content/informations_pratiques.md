@@ -5,15 +5,15 @@ title: Informations pratiques
 
 Les portes de l’événement ouvriront le vendredi 19 Août à 18h, et le festival se terminera par un repas collectif le dimanche 21 à midi.
 
-L’évènement est ouvert au grands enfants de 18 à 256 ans. Pour le moment, nous ne pouvons accueillir vos compagnons à poils, à plumes et à écailles.
+L’événement est ouvert aux grands enfants de 18 à 256 ans. Pour le moment, nous ne pouvons accueillir vos compagnons à poils, à plumes et à écailles.
 
 ## L’association
 
 Herbes Folles est un festival, mais depuis le début de l’année 2022 c’est aussi une association à but non lucratif. Nous ne réalisons pas de bénéfice sur l’organisation de cet événement !
 
-En prenant une place pour cet événement, vous adhérez obligatoirement à l’association Herbes Folles.
+En prenant une place, vous adhérez obligatoirement à l’association Herbes Folles.
 
-Cela veut dire que vous acceptez ses statuts, mais aussi la charte qui régis les valeurs qui nous unissent.
+Cela veut dire que vous acceptez ses statuts, mais aussi la charte qui régit les valeurs qui nous unissent.
 
 [Voir la charte](charte.html)
 
@@ -21,20 +21,20 @@ Cela veut dire que vous acceptez ses statuts, mais aussi la charte qui régis le
 
 Notre événement se veut inclusif et safe pour toutes les personnes. Cela veut dire que les comportements excluants ne seront pas tolérés. Donc, les comportements (liste non exhaustive) :
 
-- sexiste
-- homophobe
-- transphobe
-- raciste
-- antisémite
+- sexistes
+- homophobes
+- transphobes
+- racistes
+- antisémites
 - etc.
 
-Entraîneront systématiquement une réaction de notre part pouvant aller au délà du cadre de l’évènement.
+entraîneront systématiquement une réaction de notre part pouvant aller au délà du cadre de l’évènement.
 
 Quelques petits rappels sur le consentement : [Une vidéo chouette](https://www.youtube.com/watch?v=yj5NcMew6qc)
 
 ## Pour venir
 
-Le festival se tiendra au hameau de ‘La Curade’, dans la commune de Vindrac-Alayrac (~ 90 km de Toulouse).
+Le festival se tiendra dans la commune de Vindrac-Alayrac (~ 90 km de Toulouse).
 
 ### En voiture
 
@@ -63,7 +63,7 @@ Si vous voulez qu’une navette vienne vous récupérer, informez nous dans le f
 
 ## Nourriture
 
-Nous avons prévu de préparer à manger tout le week-end ! Alors préparez vos papilles parce que le menu sera végétarien, bio (dans la mesure du possible) et hyper local. Une option vegan sera toujours présente à chaque repas.
+Nous avons prévu de préparer à manger tout le week-end ! Alors préparez vos papilles parce que le menu sera végétarien, bio (dans la mesure du possible) et hyper local. Une option vegan sera présente à chaque repas.
 
 Si vous avez des allergies alimentaires tenez-nous au courant via le formulaire de commande de place.
 
@@ -85,9 +85,9 @@ Enfin, le cash et Lydia seront acceptés au bar.
 
 ## La canicule
 
-On sera en plein moins d’Août et si on continue sur notre lancée, la sécheresse sera a un stade très avancée. Aussi les ressources en eau seront surement très limités.
+On sera en plein moins d’Août et si on continue sur notre lancée, la sécheresse sera à un stade très avancée. Aussi les ressources en eau seront surement très limitées.
 
-Nous installerons une douche pour se laver, mais au vus de la petite installation communale, il va falloir économiser l’eau ! 
+Nous installerons une douche pour se laver, mais au vu de la petite installation communale, il va falloir économiser l’eau ! 
 **Attention** : prévoyez un savon bio-dégradable car l'eau de la douche servira à arroser les plantes.
 
 Bonus : il y a une rivière à 20 minutes en voiture si vous souhaitez vous rafraîchir.
