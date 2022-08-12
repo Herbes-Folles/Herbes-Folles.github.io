@@ -27,7 +27,7 @@ Les places représentent un peu plus de la moitié de nos recettes, et nous comp
 
 Les 15,24€ restant proviennent des recettes du bar. L'achat d'une pinte à 4,50€ nous rapporte 2,25€, le reste servant à payer le travail de la [brasserie Auros](https://brasserieauros.com/)). Ce qui fait que nous nous attendons à une dépense moyenne de 30,48€ par personne au bar. 
 
-## À quoi sers l'argent de ma place ?
+## À quoi sert l'argent de ma place ?
 
 Sur ces 53,74€, l'argent que vous nous donnerez (via l'achat d'une place, mais aussi via le bar) est utilisé de la manière suivante :
 
