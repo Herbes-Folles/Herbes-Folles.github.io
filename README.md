@@ -1,196 +1,166 @@
----
-layout: page
-title: "Hitchens"
----
+# Site web du festival Herbes Folles
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+Ce site est basé sur le générateur de site [Jekyll](http://jekyllrb.com) ainsi que le thème [Hitchens](https://github.com/patdryburgh/hitchens/).
 
-![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
+Ce fichier 'README' est structuré en quatre parties :
 
-Undoubtably one of the great minds of our time, [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme's design is inspired by the trade paperback version his book, [Arguably](https://en.wikipedia.org/wiki/Arguably), and is dedicated to his memory.
+1. Des mini-guides pour accomplir des tâches spécifiques
+2. Une explication succinte du fonctionnement de ce site web
+3. Une description des différents dossiers et de leur contenu
+4. Un guide pour les personnes techniques souhaitant mettre en place le site web sur leur PC personnel afin de visualiser les modifications en temps réel
 
-## Quick Start
+----
 
-This theme is, itself, a Jekyll blog, meaning the code base you see has everything you need to run a Jekyll powered blog!
 
-To get started quickly, follow the instructions below:
+## Guide de survie en milieu technique hostile
 
-1. Click the `Fork` button at the top of [the repository](https://github.com/patdryburgh/hitchens/);
-2. Go to your forked repo's `Settings` screen;
-3. Scroll down to the `GitHub Pages` section;
-4. Under `Source`, select the `Master` branch;
-5. Hit `Save`.
-6. Follow [Jekyll's instructions to configure your new Jekyll site](https://jekyllrb.com/docs/configuration/).
+Dans cette section vous trouverez différentes solutions à des besoins que vous pourriez avoir :
 
-## Manual Installation
+- changer des couleurs
+- mettre à jour la page d'accueil
+- mettre à jour le titre du site internet
+- modifier le contenu d'une page
+- mettre une image sur une page
+- modifier le bandeau
 
-If you've already created your Jekyll site or are comfortable with the command line, you can follow [Jekyll's Quickstart instructions](https://jekyllrb.com/docs/) add this line to your Jekyll site's `Gemfile`:
+### Je veux changer la couleur du site, c'est où ?
 
-```ruby
-gem "hitchens-theme"
+Les différentes couleurs sont définies dans les règles CSS.
+Dans le fichier `_saas/variables.scss` vous trouverez différentes déclarations sous la forme :
+
+```scss
+$nom_de_variable : #000000;
 ```
 
-And add the following lines to your Jekyll site's `_config.yml`:
+Pour mettre à jour la couleur, modifiez la valeur en hexadécimal sans toucher au nom de la variable.
+
+**Attention** : Cela modifie la couleur en question sur toutes les pages. Il n'est pas prévu de modifier une couleur uniquement sur une page.
+
+### Je veux mettre à jour le contenu de la page d'accueil, ou le titre du site
+
+La page d'accueil est fabriquée automatiquement à partir de la liste des posts de blog, et de deux fichiers de configuration.
+
+Si vous voulez mettre à jour le texte de l'introduction, c'est via le fichier `_data/home.yml`.
+
+Si vous voulez mettre à jour le titre, le sous-titre ou la description, c'est dans le fichier `_config.yml` les lignes :
 
 ```yaml
-theme: hitchens-theme
+# Website content
+title: Herbes Folles II
+description: >- # this means to ignore newlines until "baseurl:"
+  Les 19, 20 et 21 Août 2022
+extended_description: >-
+  Musique electronique, décoration et nourriture maison 
 ```
 
-Depending on your [site's configuration](https://jekyllrb.com/docs/configuration/options/), you may also need to add:
+### Je veux changer le contenu d'une page
 
-```yaml
-ignore_theme_config: true
+Deux options :
+
+1. vous voulez changer le contenu d'un article 
+2. vous voulez changer le contenu d'une page "standard"
+
+Dans les deux cas, vous aurez besoin de connaître les bases de la syntaxe Markdown.
+Voici donc des exemples de syntaxe markdown [ici](https://fr.wikipedia.org/wiki/Markdown#Exemples_de_syntaxe) et un guide [là](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/).
+
+#### 1 - Article
+
+Allez modifier directement le contenu dans le fichier `_posts/<article>.md`.
+
+#### 2 - Page standard
+
+Allez modifier le contenu dans le fichier `content/<nom de la page>.md`
+
+### Je veux mettre une image dans mon article/page
+
+Déposer votre image dans le dossier `assets/images/`.
+
+Dans votre page/article vous pouvez inclure votre image en utilisant la syntaxe :
+
+```markdown
+![Nom alternatif de l'image](/assets/images/<nom de mon image>)
 ```
 
-And then on the command line, execute:
+Vous avez un exemple dans la page `content/charte.md`.
 
-    $ bundle
+### Je veux modifier les pages ou les urls présentent dans le bandeau
 
-Or install the theme yourself as:
+La définition de la liste des pages du bandeau se trouve dans `_data/menu.yml`. La syntaxe du YAML peut sembler simple au premier abord, mais si vous avez un doute sur ce que vous faîtes, je vous recommande de lire cette page : [yaml syntaxe](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html).
 
-    $ gem install hitchens-theme
+----
 
-## Usage
+## Fonctionnement de Jekyll
 
-### Home Layout
+L'idée centrale de cet outil, c'est de séparer le contenu (ce qu'on écrit dans les pages web), de la mise en forme (le HTML et le CSS utilisé pour afficher le contenu).
 
-The `home` layout presents a list of articles ordered chronologically. The theme uses [Jekyll's built-in pagination](https://jekyllrb.com/docs/pagination/#enable-pagination) which can be configured in your `_config.yml` file.
+On a donc d'un côté le contenu du site écrit et mise en forme de manière minimale au format Markdown.
 
-The masthead of the home page is derived from the `title` and `description` set in your site's `_config.yml` file.
+De l'autre côté, on a les règles de styles CSS qui vont spécifier la police, la couleur, etc.
 
-#### Navigation
+Et au milieu, on retrouve des fichiers HTML qui servent de patron pour fabriquer les pages en fonction du contenu. Ce sont ces fichiers qui associent à du contenu, un ensemble de balises HTML et de classes CSS.
 
-To include a navigation menu in your site's masthead and footer:
+----
 
-1. Create a `_data` directory in the root of your site.
-2. Add a `menu.yml` file to the `_data` directory.
-3. Use the following format to list your menu items:
+## Organisation des dossiers
 
-```
-- title: About
-  url: /about.html
+Ce site web est fabriqué à partir de trois grandes catégories de fichiers :
+- ceux qui portent le contenu du site, écrit au format Markdown (des exemples de syntaxe markdown [ici](https://fr.wikipedia.org/wiki/Markdown#Exemples_de_syntaxe), un guide [là](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/))
+- ceux qui définissent les règles de mise en forme, au format CSS
+- ceux qui portent la structure du site avec un mélange de HTML et de YAML (pourquoi le yaml ? => pour rendre paramétrable le site)
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
-```
+### Contenu
 
-Be sure to start your `url`s with a `/`.
+On retrouve deux grands types de contenus :
+- les pages 'standards', stockées dans le dossier `content`. En gros il s'agit du contenu qui n'est pas daté.
+- les articles de blog, stockés dans le dossier `_posts`
 
-#### Pagination
+Le maximum de contenu est écrit au format markdown. Si vous voulez comprendre un peu mieux l'en-tête présent sur les fichiers, [la documentation](https://jekyllrb.com/docs/posts/) contiens toutes les réponses :)
 
-To paginate your posts, add the following line to your site's `Gemfile`:
+### Mise en forme (CSS)
 
-```
-gem "jekyll-paginate"
-```
+Le dossier `_saas` contiens des fichiers de règles CSS. Ceux-ci sont dans une syntaxe un poil différente du CSS, puisque l'on peut notamment déclarer des variables (très pratique pour les couleurs !!!).
 
-Then, add the following lines to your site's `_config.yml` file:
+Si vous ne touchez qu'à la couleur, vous devriez pouvoir modifier seulement le fichier `_saas/_variable.scss`.
 
-```
-plugins:
-  - jekyll-paginate
+### Structure
 
-paginate: 20
-paginate_path: "/page/:num/"
-```
+Le dossier `_layouts` contiens les fichiers HTML permettant de transformer les pages au format markdown en fichiers HTML.
 
-You can set the `paginate` and `paginate_path` settings to whatever best suits you.
+Il se base aussi sur le dossier `_includes` qui sers à définir des bouts de HTML qui sont réutilisés à travers plusieurs pages (par exemple `_includes/menu.html` contiens le code source du bandeau de menu).
 
-#### Excerpts
+La syntaxe de ces fichiers est un peu particulière. En effet, il s'agit de "patrons" qui sont ensuite remplis avec le contenu des fichiers Markdown. Il s'agit de la syntaxe Liquid ([doc](https://shopify.github.io/liquid/basics/introduction/))
 
-To show [excerpts](https://jekyllrb.com/docs/posts/#post-excerpts) of your blog posts on the home page, add the following settings to your site's `_config.yml` file:
+Vous trouverez aussi des fichiers yml dans le dossier `_data` :
+- `data/home.yml` : ce fichier définit le contenu de la page d'accueil
+- `data/menu.yml` : ce fichier définit le contenu du bandeau de menu
 
-```
-show_excerpts: true
-```
+----
 
-By default, excerpts that have more than 140 characters will be truncated to 20 words. In order to override the number of words you'd like to show for your excerpts, add the following setting to your site's `_config.yml` file:
+## Faire tourner le site web en local
 
-```
-excerpt_length: 20
-```
+Les instructions suivantes sont plutôt valable pour un système **Linux** (désolé :|). Les blocs de codes indiquent des commandes à taper dans une console.
 
-To disable excerpt truncation entirely, simply set `excerpt_length` to `0` in your site's `_config.yml` file, like so:
+Commencez par installer le langage de programmation ruby (sur Ubuntu par exemple `apt install ruby`).
 
-```
-excerpt_length: 0
+Puis, clonez ce repo :
+
+```bash
+git clone git@github.com:Herbes-Folles/Herbes-Folles.github.io.git
 ```
 
-If you do this, the theme will still respect Jekyll's `excerpt_separator` feature as [described in the Jekyll documentation](https://jekyllrb.com/docs/posts/#post-excerpts).
+Installez *Jekyll* :
 
-
-#### Title-less Posts
-
-If you want to publish posts that don't have a title, add the following setting to the [front matter](https://jekyllrb.com/docs/frontmatter/) of the post:
-
-```
-title: ""
+```bash
+cd Herbes-Folles.github.io # On rentre dans le dossier du repo
+bundle install # On installe jekyll
+bundle exec jekyll serve # On démarre jekyll
 ```
 
-When you do this, the home page will display a truncated [excerpt](https://jekyllrb.com/docs/posts/#post-excerpts) of the first paragraph of your post.
+Si tout s'est bien déroulé, visitez la page [http://127.0.0.1:4000/](http://127.0.0.1:4000/) sur votre navigateur et vous devriez vois le site d'herbe folles.
 
-Note that setting `excerpt_length` in your site's `_config.yml` file will set the length of _all_ excerpts, regardless of whether the post has a title or not. For posts with a title, the excerpt will appear under the title and slightly lighter. For title-less posts, the excerpt will appear as if it were a title.
+Le site est refabriqué/rechargé automatiquement à chaque modification (**/!\ sauf pour le fichier `_config.yml`**).
 
-### Post Layout
-
-A sparsely decorated layout designed to present long-form writing in a manner that's pleasing to read.
-
-To use the post layout, add the following to your post's [front matter](https://jekyllrb.com/docs/frontmatter/):
-
-```
-layout: post
-```
-
-### Icons
-
-The [JSON Feed spec](https://jsonfeed.org/version/1) states that feeds should include an icon. To add your icon, add the following line in your site's `_config.yml` file:
-
-```
-feed_icon: /assets/images/icon-512.png
-```
-
-Then, replace the `/assets/images/icon-512.png` file with your own image.
-
-### Credits
-
-The theme credits that appear at the bottom of each page can be turned off by including the following line in your site's `_config.yml` file:
-
-```
-hide_credits: true
-```
-
-### Search
-
-The theme uses a [custom DuckDuckGo Search Form](https://ddg.patdryburgh.com) that can be turned off by including the following line in your site's `_config.yml` file: 
-
-```
-hide_search: true
-```
-
-### Font
-
-I spent a good amount of time trying to identify the font used on the front cover of the trade paperback version of Arguably. Unfortunately, I failed to accurately identify the exact font used. If you happen to know what font is used on the book cover, I would appreciate you [letting me know](mailto:hello@patdryburgh.com) :)
-
-The theme includes a version of [EB Garamond](https://fonts.google.com/specimen/EB+Garamond), designed by Georg Duffner and Octavio Pardo. It's the closest alternative I could come up with that included an open license to include with the theme.
-
-A [copy of the license](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt) has been included in the `assets` folder and must be included with any distributions of this theme that include the EB Garamond font files.
-
-## Contributing & Requesting Features
-
-Bug reports, feature requests, and pull requests are welcome on GitHub at [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens).
-
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-The theme is setup just like a normal Jekyll site. To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to the theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
 
 ## License
 
 The code for this theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-The font, EB Garamond, is Copyright 2017 The EB Garamond Project Authors and licensed under the [SIL Open Font License Version 1.1](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt).
-
-Graphics are released to the public domain.
