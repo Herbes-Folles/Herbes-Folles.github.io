@@ -1,12 +1,14 @@
-$brand-color:         #F5ECE6;
+$text-color:          #2E4500; // Couleur du texte sur les articles
+$muted-text-color:    #64644B; // Couleur quand on passe la souris sur un texte du bandeau de navigation
+$title_color: 	  #8B7437; // Couleur des titres
+
+$main_background:		  #F2FFDD; // Couleur du fond principal
+$text_background:   #FCFFF3; // Couleur du fond des articles
+
+$outline_color: 		  #CDFC00; // Couleur du liseré
+$brand-color:         #ff0000; // Couleur du surlignage des liens
 $highlight:           lighten($brand-color, 35%);
-$text-color:          #0b0404;
-$color-sapin:   #144F36;
-$color-terracota: 	  #B14A3E;
-$color-sable:		  #EED1BA;
-$color-coquille:   #F5ECE6;
-$color-opale: 		  #8ABEC2;
-$muted-text-color:    #64644B;
+
 $font-family:         "Alegreya Sans", Alegreya, "Times New Roman", serif;
 
 $on-bigphone:         375px;
