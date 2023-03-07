@@ -4,6 +4,5 @@ source "https://rubygems.org"
 gemspec
 
 # for demo site
-gem "github-pages"
 gem "jekyll-paginate"
 gem "webrick"
