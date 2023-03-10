@@ -153,8 +153,17 @@ Installez *Jekyll* :
 ```bash
 cd Herbes-Folles.github.io # On rentre dans le dossier du repo
 bundle install # On installe jekyll
-bundle exec jekyll serve # On démarre jekyll
 ```
+Lancez jekyll :
+
+- Sur linux :
+  ```
+  bundle exec jekyll serve # On démarre jekyll
+  ```
+- Sur macos :
+  ```
+  bundle exec jekyll serve --livereload --incremental --force_polling
+  ```
 
 Si tout s'est bien déroulé, visitez la page [http://127.0.0.1:4000/](http://127.0.0.1:4000/) sur votre navigateur et vous devriez vois le site d'herbe folles.
 
