@@ -9,7 +9,7 @@
   margin-bottom: 0;
   margin-top: 1em;
   font-weight: bolder;
-  color : $color-terracota;
+  color : $title_color;
   padding: 0 2rem;
   @media (min-width: $on-tablet) {
     font-size: 6em;
@@ -19,7 +19,7 @@
 .site-masthead h2 {
   color: $muted-text-color;
   font-size: 1.25em;
-  color : $color-sapin;
+  color : $muted-text-color;
   font-weight: 400;
   margin: 0;
   padding: 0 2rem;

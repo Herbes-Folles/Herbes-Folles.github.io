@@ -1,6 +1,6 @@
 .post {
-  outline: 5px solid $color-opale;
-  background: #FBFBFB;
+  outline: 5px solid $outline_color;
+  background: $text_background;
   margin: 2em auto;
   max-width: 70rem;
   padding: 0 0 2rem 0;
@@ -9,7 +9,7 @@
 }
 
 .post > * {
-  color: $color-sapin;
+  color: $muted-text-color;
   margin-left: auto;
   margin-right: auto;
   max-width: 60rem;
@@ -21,7 +21,7 @@
   max-width: 48rem;
   padding: 1em 1em;
   text-align: center;
-  color: $color-terracota;
+  color: $title_color;
   font-weight: 900;
 }
 
