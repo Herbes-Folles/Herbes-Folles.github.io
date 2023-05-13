@@ -186,3 +186,28 @@ figcaption {
     width: 40vw
   }
 }
+
+
+.shrooms {
+  z-index: -1;
+  flex-shrink: 10;
+  overflow: hidden;
+  height: 15 rem;
+  min-width: 50rem;
+}
+
+.img-hor-vert {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.shrooms-container {
+  position: absolute;
+  top:-4rem;
+  left: 0%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  width: 100%;
+  z-index: -1;
+}

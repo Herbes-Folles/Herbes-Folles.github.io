@@ -13,6 +13,10 @@
   margin: 0;
   display: flex;
   flex-wrap: wrap;
+  @media (min-width: $on-tablet) {
+    flex-wrap: nowrap;
+  }
+
   justify-content: center;
 }
 
