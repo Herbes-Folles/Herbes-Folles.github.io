@@ -37,9 +37,6 @@ Quelques petits rappels sur le consentement : [Une vidéo chouette](https://www.
 Le festival se tiendra dans la commune de Vindrac-Alayrac (~ 90 km de Toulouse).
 
 ### En voiture
-
-Depuis Cordes-sur-ciel prendre la D600 vers Saint-Antonin/Vindrac. Prendre la D91 sous un pont mais immédiatement sortir et suivre une petite route de campagne. Au bout de 1,2 km prendre la première à gauche sur un petit pont et monter jusqu’au hameau.
-
 Des coordonnées GPS vous seront transmise peu avant la tenue de l’événement.
 
 ### En TER depuis Toulouse
