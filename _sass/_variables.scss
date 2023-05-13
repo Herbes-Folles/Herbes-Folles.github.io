@@ -1,11 +1,15 @@
-$text-color:          #2E4500; // Couleur du texte sur les articles
-$muted-text-color:    #64644B; // Couleur quand on passe la souris sur un texte du bandeau de navigation
-$title_color: 	  #8B7437; // Couleur des titres
+$text-color:          #263c6f; // Couleur du texte sur les articles
+$muted-text-color:    #708bad; // Couleur quand on passe la souris sur un texte du bandeau de navigation
+$title_color_home: 	  #ec8f37; // Couleur des titres
+$subtitle_color_home: #e19aa4; // Couleur du sous titre de la page principale
 
-$main_background:		  #F2FFDD; // Couleur du fond principal
-$text_background:   #FCFFF3; // Couleur du fond des articles
+$title_color: #e19aa4; // Couleur des titres sur les pages annexes
 
-$outline_color: 		  #CDFC00; // Couleur du liseré
+
+$main_background:		  #ffffff; // Couleur du fond principal
+$text_background:   #ffffff; // Couleur du fond des articles
+
+$outline_color: 		  #e19aa4; // Couleur du liseré
 $brand-color:         #ff0000; // Couleur du surlignage des liens
 $highlight:           lighten($brand-color, 35%);
 
