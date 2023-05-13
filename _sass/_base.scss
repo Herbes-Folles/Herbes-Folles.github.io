@@ -168,3 +168,21 @@ figcaption {
   max-width: 60rem;
   padding: 0 1em;
 }
+
+@media (min-width: $on-bigphone) {
+  .header_img {
+    width: 55vw
+  }
+}
+
+@media (min-width: $on-tablet) {
+  .header_img {
+    width: 65vw
+  }
+}
+
+@media (min-width: $on-laptop) {
+  .header_img {
+    width: 40vw
+  }
+}

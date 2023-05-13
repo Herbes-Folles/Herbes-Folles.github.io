@@ -4,12 +4,17 @@ layout: default
 
   <header class="site-masthead">
     {% include menu.html %}
+    <img
+      src="/assets/images/logo.svg"
+      alt="{{ site.title }}"
+      class="header_img"
+    />
     {% if site.title %}
-      <h1>
+      <h1 style="display: none;">
         {{ site.title }}
       </h1>
     {% endif %}
-    {% if site.title %}
+
       <h2>
         {{ site.description }}
       </h2>
@@ -24,6 +29,7 @@ layout: default
   <i style="font-style:italic; color:grey">{{ site.data.home.hero.note }}</i>
   </header>
       <div class="post h-entry" style="padding-top: 2em;">
+
         <h2 style="max-width: none;">{{ site.data.home.intro.title }}</h2>
         <hr>
 
@@ -47,7 +53,6 @@ layout: default
     </div>
 
     </div>
-    {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
     
