@@ -1,0 +1,63 @@
+.homepage-shrooms {
+  z-index: -1;
+  overflow: hidden;
+  margin: 0 0 0 0;
+
+  width: 50%;
+
+  @media (min-width: $on-tablet) {
+    width: 45%;
+  }
+
+  @media (min-width: $on-laptop) {
+    width: 65%;
+  }
+
+  @media (min-width: $on-desktop) {
+    width: 90%;
+  }
+}
+
+
+.homepage-shrooms-right {
+  grid-row-start: 1;
+  grid-column-start: right;
+  grid-column-end: end;
+
+  align-self: start;
+  justify-self: end;
+  transform-origin: top right;
+
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1) translateX(100%);
+}
+
+
+
+.homepage-shrooms-left {
+  grid-row-start: 1;
+  grid-column-start: left;
+  grid-column-end: middle;
+
+  transform-origin: top left;
+
+  align-self: start;
+  justify-self: start;
+
+}
+
+.homepage-shrooms-container {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  display: grid;
+
+  width: 100vw;
+  z-index: -1;
+
+
+  grid-template-columns: [left] 1fr [middle] 1fr [right] 1fr;
+  grid-template-rows: 1fr;
+
+
+}
