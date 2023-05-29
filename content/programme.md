@@ -3,7 +3,7 @@ layout: post
 title: Programme
 ---
 
-< U >## Programmation musicale</U>
+## <U>Programmation musicale</U>
 
 ## Baboucan and the fine asses
 Fine association de ukulélé, de guitares qui feulent, de beatbox qui gratouille les vertèbres et d’harmonies travaillées les voilà transformés en Baboucan & the Fine Asses. Une néo-soul acoustique qui fait voyager à tous les coups !
