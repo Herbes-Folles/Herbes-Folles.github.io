@@ -7,7 +7,7 @@ title: Programme
 <br>
 ## Baboucan and the fine asses
 Fine association de ukulélé, de guitares qui feulent, de beatbox qui gratouille les vertèbres et d’harmonies travaillées les voilà transformés en Baboucan & the Fine Asses. Une néo-soul acoustique qui fait voyager à tous les coups !
-<a href="https://www.youtube.com/@Baboucan">Écouter Baboucan and the fine asses</a>
+<CENTER><a href="https://www.youtube.com/@Baboucan">Écouter Baboucan and the fine asses</a><CENTER>
   
 
 ## CUTTER
