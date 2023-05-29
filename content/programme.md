@@ -14,4 +14,4 @@ Son dernier album "Merder en beauté" est disponible sur toutes les plateformes.
 
 
 
-<br>La suite de la programmation arrive vite... ;)
+<br><CENTER>La suite de la programmation arrive vite... ;)
