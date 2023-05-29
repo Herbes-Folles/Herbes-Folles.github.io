@@ -10,8 +10,8 @@ Fine association de ukulélé, de guitares qui feulent, de beatbox qui gratouill
 
 ## CUTTER
 CUTTER est un garçon étrange, de ceux qui se révèlent lorsqu'ils peuvent enfin s'exprimer,ici un micro dans la main. Perdu quelque part entre l'enfant seul d'Oxmo Puccino et les odes érotiques d'un Gainsbourg. Il propose un univers unique... Et multiple ! Entre le rap, la pop et la poésie, le show transpire surtout la liberté et le désir de vous surprendre ! 
-Son dernier album "Merder en beauté" est disponible sur toutes les plateformes.<br>
+Son dernier album "Merder en beauté" est disponible sur toutes les plateformes.
 
 
 
-<br>À venir... ;)
+<br>La suite de la programmation arrive vite... ;)
