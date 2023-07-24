@@ -33,7 +33,7 @@ Son dernier album "Merder en beauté" est disponible sur toutes les plateformes.
 
 🎧 : [Youtube](https://www.youtube.com/@cutterleseul)
 
-#### Daïba
+#### Daibā 
 
 ![](/assets/images/prog23/daiba.jpg)
 
@@ -48,19 +48,14 @@ Ce trio « électrique » (saxophone avec effets, claviers, batterie) formé dé
 ![](/assets/images/prog23/l'équipage.jpg)
 
 
-« C’EST QUI ? L’Equipage, un collectif d’artistes indépendants ayant pour objectif de développer la piraterie dans son état d'esprit au coeur la
-culture Hip Hop.
-C’EST QUOI ? Un attelage de rappeurs, rappeuses, musiciens réunis
-pour faire de la scène et organiser des Concerts/Open Mic.
-Le collectif adopte des propositions variées, aux couleurs underground tant dans leurs lives mélangeant acoustique et instrumentale que dans les styles d’artistes diffusés lors de la programmation de ses rendez-
-vous phares au bastion Le Txus.
+« C’EST QUI ? L’Equipage, un collectif d’artistes indépendants ayant pour objectif de développer la piraterie dans son état d'esprit au coeur la culture Hip Hop.
+C’EST QUOI ? Un attelage de rappeurs, rappeuses, musiciens réunis pour faire de la scène et organiser des Concerts/Open Mic.
+Le collectif adopte des propositions variées, aux couleurs underground tant dans leurs lives mélangeant acoustique et instrumentale que dans les styles d’artistes diffusés lors de la programmation de ses rendez-vous phares au bastion Le Txus.
 Le projet, structuré au printemps 2022 rassemble Mani, Muncai, Mire, Hadock et Troma sous un noir étendard.
 Les 5 pirates se sont depuis régulièrement produits sur scène n’hésitant pas à inviter d’autres artistes et groupes à venir chauffer les caves, les bars et les festivals.
 Joyeux bordel c'est l'hymne, à l'abordage à la rime à la mort. »
 
-
 💈 `Rap`
-
 
 #### Neon Kult
 
@@ -85,7 +80,7 @@ en une cyber-tranc et dans une liesse rétro-futuriste.
 🎧 : [Soundcloud](https://soundcloud.com/neonkult)
 
 
-#### Loki
+#### Locki Docki
 
 ![](/assets/images/prog23/loki.jpg)
 
@@ -99,7 +94,7 @@ Locki docki viendra faire le show aux herbes folles pour la 3eme édition vendre
 
 Cette année encore, le **Herbes Folles Crew** sera là pour vous régaler !
 
-Au menu de cette balade mycologique, nous avons une introduction aux sonorités envoutantes de la psytrance qui sera tissée par cet être mycorizien, mi-humain et mi-champignon qu'est Funk-yeast (*Paul F*).
+Au menu de cette balade mycologique, nous avons une introduction aux sonorités envoutantes de la psytrance qui sera tissée par cet être mycorhizien, mi-humain et mi-champignon qu'est Funk-yeast (*Paul F*).
 
 Cette introduction sera complétée par les spores virevoltantes de la psytrance jouée par Paul P.
 
