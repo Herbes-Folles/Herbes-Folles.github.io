@@ -90,6 +90,19 @@ Locki docki viendra faire le show aux herbes folles pour la 3eme édition vendre
 💈 `Rap`
 
 
+#### Mathitou Sound System 
+
+![](/assets/images/prog23/mathitou.jpg)
+
+
+Duo de DJs parisiens qui mixent des beats détonants et des mélodies envoûtantes. L’alchimie musicale du dragon enflammeur de dance floor et du robot mélomane est aussi imprévisible qu'un chat qui court après un point lumineux. 
+
+Adeptes des jerks électroniques, de leur musique naitra des amours ludiques. 
+
+Be-bop, la vie c'est n'importe quoi
+
+💈 `House to techno `
+
 #### Herbes Folles Crew
 
 Cette année encore, le **Herbes Folles Crew** sera là pour vous régaler !
@@ -154,9 +167,6 @@ Sur une note plus vénéneuse, Deuls viendra déraciner vos mycorizes avec sa Dr
 
 💈 `Rap`
 
-#### Matitou Sound System 
-
-💈 `House to techno `
 
 <br>
 <br><CENTER>La suite de la programmation arrive vite... ;)
