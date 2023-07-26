@@ -134,6 +134,17 @@ Cette introduction sera complétée par les spores virevoltantes de la psytrance
 Sur une note plus vénéneuse, Deuls viendra déraciner vos mycorizes avec sa Drum'n bass des sous-bois. Enfin, Frer tang vous a reservé des tartines de sons pour une cueillette de champignons dansée à 180 bpm.
 
 
+#### Saint Jacques
+
+💈 `Acid Techno`
+
+Saint-Jacques, c'est tout d'abord une rencontre entre la trance, la deep house et le breakbeat. Une vibe oldschool, des influences UK. Un savant équilibre de groove et de mélodies planantes, épaulé par des percussions riches et variées. Saint-Jacques aujourd'hui, c'est une glissade controlée dans l'univers de la techno berlinoise, apportant un dernier ingrédient à la recette : l'énergie.
+
+Saint-Jacques c'est un voyage. Saint-Jacques, c'est le club.
+
+🎧 : [Soundcloud](https://soundcloud.com/saint-jacques)
+
+
 #### Cleo XIII
 
 ![](/assets/images/prog23/cleoxiii.jpg)
@@ -154,13 +165,6 @@ Sur une note plus vénéneuse, Deuls viendra déraciner vos mycorizes avec sa Dr
 
 
 💈 `Acid Techno`
-
-
-#### Saint Jacques
-
-💈 `Acid Techno`
-
-🎧 : [Soundcloud](https://soundcloud.com/saint-jacques)
 
 
 #### 👌👅🗣 Gajeb
