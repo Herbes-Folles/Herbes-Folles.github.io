@@ -21,17 +21,15 @@ Fine association de ukulélé, de guitares qui feulent, de beatbox qui gratouill
 
 🎧 : [Youtube](https://www.youtube.com/watch?v=9Q_oJRF-OWk)
 
-#### CUTTER
+#### Ilusion
 
-![](/assets/images/prog23/cutter.jpg)
+![](/assets/images/prog23/ilusion.jpg)
 
+Ilusión est une jeune photographe toulousaine, passionnée par l'image, elle arpente les soirées toulousaines avec le media Effet tunnel. Adepte de techno d'acid, techno 90', et hard techno elle vibre quand les mélopées dansent avec les bass. 
 
-Cutter est un garçon étrange, de ceux qui se révèlent lorsqu'ils peuvent enfin s'exprimer,ici un micro dans la main. Perdu quelque part entre l'enfant seul d'Oxmo Puccino et les odes érotiques d'un Gainsbourg. Il propose un univers unique... Et multiple ! Entre le rap, la pop et la poésie, le show transpire surtout la liberté et le désir de vous surprendre ! 
-Son dernier album "Merder en beauté" est disponible sur toutes les plateformes.
+Membres des collectifs Komet et Soror elle aime sortir de sa zone de confort et explorer des univers musicaux différents, elle se complet autant dans des sonorités sombres et industrielles que dans des univers plus doux, mélodiques et solaires.
 
-💈 `Rap`
-
-🎧 : [Youtube](https://www.youtube.com/@cutterleseul)
+💈 `Hard Groove`
 
 #### Daibā 
 
@@ -43,19 +41,6 @@ Ce trio « électrique » (saxophone avec effets, claviers, batterie) formé dé
 
 🎧 [Youtube](https://www.youtube.com/channel/UCuogOo9anqtyOdcfCFa5lBQ)
 
-#### L'équipage
-
-![](/assets/images/prog23/l'équipage.jpg)
-
-
-« C’EST QUI ? L’Equipage, un collectif d’artistes indépendants ayant pour objectif de développer la piraterie dans son état d'esprit au coeur la culture Hip Hop.
-C’EST QUOI ? Un attelage de rappeurs, rappeuses, musiciens réunis pour faire de la scène et organiser des Concerts/Open Mic.
-Le collectif adopte des propositions variées, aux couleurs underground tant dans leurs lives mélangeant acoustique et instrumentale que dans les styles d’artistes diffusés lors de la programmation de ses rendez-vous phares au bastion Le Txus.
-Le projet, structuré au printemps 2022 rassemble Mani, Muncai, Mire, Hadock et Troma sous un noir étendard.
-Les 5 pirates se sont depuis régulièrement produits sur scène n’hésitant pas à inviter d’autres artistes et groupes à venir chauffer les caves, les bars et les festivals.
-Joyeux bordel c'est l'hymne, à l'abordage à la rime à la mort. »
-
-💈 `Rap`
 
 #### Neon Kult
 
@@ -79,6 +64,31 @@ en une cyber-tranc et dans une liesse rétro-futuriste.
 
 🎧 : [Soundcloud](https://soundcloud.com/neonkult)
 
+#### L'équipage
+
+![](/assets/images/prog23/l'équipage.jpg)
+
+
+« C’EST QUI ? L’Equipage, un collectif d’artistes indépendants ayant pour objectif de développer la piraterie dans son état d'esprit au coeur la culture Hip Hop.
+C’EST QUOI ? Un attelage de rappeurs, rappeuses, musiciens réunis pour faire de la scène et organiser des Concerts/Open Mic.
+Le collectif adopte des propositions variées, aux couleurs underground tant dans leurs lives mélangeant acoustique et instrumentale que dans les styles d’artistes diffusés lors de la programmation de ses rendez-vous phares au bastion Le Txus.
+Le projet, structuré au printemps 2022 rassemble Mani, Muncai, Mire, Hadock et Troma sous un noir étendard.
+Les 5 pirates se sont depuis régulièrement produits sur scène n’hésitant pas à inviter d’autres artistes et groupes à venir chauffer les caves, les bars et les festivals.
+Joyeux bordel c'est l'hymne, à l'abordage à la rime à la mort. »
+
+💈 `Rap`
+
+#### CUTTER
+
+![](/assets/images/prog23/cutter.jpg)
+
+
+Cutter est un garçon étrange, de ceux qui se révèlent lorsqu'ils peuvent enfin s'exprimer,ici un micro dans la main. Perdu quelque part entre l'enfant seul d'Oxmo Puccino et les odes érotiques d'un Gainsbourg. Il propose un univers unique... Et multiple ! Entre le rap, la pop et la poésie, le show transpire surtout la liberté et le désir de vous surprendre ! 
+Son dernier album "Merder en beauté" est disponible sur toutes les plateformes.
+
+💈 `Rap`
+
+🎧 : [Youtube](https://www.youtube.com/@cutterleseul)
 
 #### Locki Docki
 
@@ -89,6 +99,16 @@ Locki docki viendra faire le show aux herbes folles pour la 3eme édition vendre
 
 💈 `Rap`
 
+
+#### Eux
+
+![](/assets/images/prog23/eux.jpg)
+
+Eux, c'est un trio de copains amoureux de son et plein de revendications. Eux c'est punk, eux c'est funk. Eux c'est rock et eux c'est rap, beaucoup disent que c'est de la frappe. 
+
+Eux c'est vous, et vous c'est nous.
+
+💈 `Rock`
 
 #### Mathitou Sound System 
 
@@ -114,12 +134,6 @@ Cette introduction sera complétée par les spores virevoltantes de la psytrance
 Sur une note plus vénéneuse, Deuls viendra déraciner vos mycorizes avec sa Drum'n bass des sous-bois. Enfin, Frer tang vous a reservé des tartines de sons pour une cueillette de champignons dansée à 180 bpm.
 
 
-#### Eux
-
-![](/assets/images/prog23/eux.jpg)
-
-💈 `Rock`
-
 #### Cleo XIII
 
 ![](/assets/images/prog23/cleoxiii.jpg)
@@ -140,14 +154,6 @@ Sur une note plus vénéneuse, Deuls viendra déraciner vos mycorizes avec sa Dr
 
 
 💈 `Acid Techno`
-
-
-#### Ilusion
-
-![](/assets/images/prog23/ilusion.jpg)
-
-
-💈 `Hard Groove`
 
 
 #### Saint Jacques
