@@ -123,6 +123,18 @@ Be-bop, la vie c'est n'importe quoi
 
 💈 `House to techno `
 
+#### Osmode
+
+![](/assets/images/prog23/osmode.jpg)
+
+Osmode, c’est la fusion de deux artistes toulousains complémentaires qui partagent leur passion musicale depuis 2014. Membres fondateurs de l’association Komet Productions et du label Stellair, ils trouvent leur point focal entre la culture hip-hop et la musique électronique. Ils sont particulièrement attirés par des sets improvisés en constante exploration de nouveaux genres et hybrides, mais leur principale couleur est un mélange de Breakbeat, Garage et Techno.
+
+Ils sortent leur premier EP sur le label « Misère » en 2022 et ils participent à la VA « Aggregate » avec leur dernière release « Neï ». Ils développent récemment leur live machine et leur hybrid set, afin de lier une nouvelle fois leurs forces respectives, la production et le digging. Le Cri de la Mouette (Toulouse), le Connexion Live (Toulouse), ainsi que le Vezania Festival et le LaBel Valette Festival sont des lieux et évènements qu’ils ont pu arpenter.
+
+💈 `Acid Techno`
+
+🎧 : [Soundcloud](https://soundcloud.com/osmodecrew)
+
 #### Herbes Folles Crew
 
 Cette année encore, le **Herbes Folles Crew** sera là pour vous régaler !
@@ -158,14 +170,6 @@ Saint-Jacques c'est un voyage. Saint-Jacques, c'est le club.
 
 
 💈 `Ditry prog trance`
-
-#### Osmode
-
-![](/assets/images/prog23/osmode.jpg)
-
-
-💈 `Acid Techno`
-
 
 #### 👌👅🗣 Gajeb
 
